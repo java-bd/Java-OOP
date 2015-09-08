@@ -1,0 +1,33 @@
+Food application features:
+
+	1. Filter out Restaurants by a patricular Area or region
+	2. See the list of Restaurants of that particular Area
+		
+		Restaurants list contains:
+		
+		1. Name of Restaurant
+		2. Image of Restaurant
+		3. Food type they provides
+		4. Addresss
+		5. Review + Rating
+		6. Opening Hours
+		7. Payment Methods available
+		8. Minimu Order (TK)
+		9. Delivery charge + Time
+		
+	3. Particular Restaurant Holds:
+		1. List of Menues
+		2. Menu price
+		3. Menu picture
+	
+	4. Ordering process:
+		1. Add menues to cart
+		2. continue to shopping or go to ordering
+		3. Final order process:
+			1. Your order list
+			2. Delivery type
+			3. Exact contact info
+			4. Payment method
+		
+	5. Confirms order by Notification
+		
